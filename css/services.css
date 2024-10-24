@@ -1,0 +1,60 @@
+body{
+    background-color: white;
+    margin-left: 80px;
+}
+
+#heading1{
+    text-align: center;
+    background-color: #216a6a;
+}
+
+.paragraph{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#mydivision{
+    background-color: #ed916b;
+    margin: 40px;
+    padding: 30px;
+    color: #ffffff;
+
+}
+#test{
+    background-color: antiquewhite;
+    color: black;
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+}
+#test img{
+    margin-right: 40px;
+    border-radius: 400px;
+}
+
+#main{
+    display: flex;
+}
+#advertisement{
+    background-color: #850624;
+    color: antiquewhite;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 12px 6px 12px 4px gray;
+}
+#accounting{
+    background-color: #096363;
+    color: antiquewhite;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 12px 6px 12px 4px gray;
+}
+#payment{
+    background-color: #8383cf;
+    color: antiquewhite;
+    margin-left: 20px;
+    padding: 30px;
+    box-shadow: 12px 6px 12px 4px gray;
+}
+#advertisement:hover, #accounting:hover, #payment:hover{
+    background-color: gray;
+}

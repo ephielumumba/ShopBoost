@@ -1,0 +1,24 @@
+h1{
+    color: #57aaaa;
+    text-align: center;
+    font-size: 80px;
+    font-weight: bold;
+    background-color: black;
+    text-shadow: 10px 4px 10px yellow;
+    text-decoration: underline;
+
+}
+h1:hover{
+    background-color: #93223c;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+
+
+
+}
+img:hover{
+    opacity: 0.5;
+}
